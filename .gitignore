@@ -4,3 +4,4 @@ do_not_upload*
 .ipynb_checkpoints/*
 dataset_kor/*
 result/*
+*.xlsx
